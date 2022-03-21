@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.3768518518518518" />
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.3768518518518518" />
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/drawable/ic_dark_theme.xml" value="0.3768518518518518" />
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/drawable/ic_delete_black_24dp.xml" value="0.382051282051282" />
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3768518518518518" />
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/drawable/ic_launcher_background.xml" value="0.382051282051282" />
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3768518518518518" />
+        <entry key="..\:/Users/Lee/Desktop/Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3768518518518518" />
+        <entry key="..\:/Users/Manax/AndroidStudioProjects/Application/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.1" />
+        <entry key="..\:/Users/Manax/AndroidStudioProjects/Application/app/src/main/res/layout/activity_edite_note.xml" value="0.25" />
+        <entry key="..\:/Users/Manax/AndroidStudioProjects/Application/app/src/main/res/layout/activity_main.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Manax/AndroidStudioProjects/Application/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/Manax/AndroidStudioProjects/Application/app/src/main/res/layout/note_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Manax/AndroidStudioProjects/Application/app/src/main/res/menu/edite_note_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

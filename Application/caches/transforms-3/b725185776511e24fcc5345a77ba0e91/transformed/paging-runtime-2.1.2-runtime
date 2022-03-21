@@ -1,0 +1,13 @@
+androidx.paging.AsyncPagedListDiffer
+androidx.paging.AsyncPagedListDiffer$1
+androidx.paging.AsyncPagedListDiffer$2
+androidx.paging.AsyncPagedListDiffer$2$1
+androidx.paging.AsyncPagedListDiffer$PagedListListener
+androidx.paging.LivePagedListBuilder
+androidx.paging.LivePagedListBuilder$1
+androidx.paging.LivePagedListBuilder$1$1
+androidx.paging.PagedListAdapter
+androidx.paging.PagedListAdapter$1
+androidx.paging.PagedStorageDiffHelper
+androidx.paging.PagedStorageDiffHelper$1
+androidx.paging.PagedStorageDiffHelper$OffsettingListUpdateCallback
